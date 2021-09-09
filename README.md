@@ -1,5 +1,9 @@
-# test-repo
+# Introduction
 
-This is a test repo for C2C Elite 2021
+This is a repository created by *Firstname*
 
-This is only a test
+## Usage
+
+Run this command to execute the application:
+
+`python filename.py`
